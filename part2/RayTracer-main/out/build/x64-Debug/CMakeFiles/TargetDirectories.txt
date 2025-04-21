@@ -1,0 +1,8 @@
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/Ray.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/Image.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/Objects.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/RayTracer.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/RayTraceRunner.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/run.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+F:/MDU/Graphics/part1/RayTracer-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
